@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## The Mechanism Design Working Group is for collaborative learning about strategic design, game theory and dynamic systems in blockchain, decentralized networks and beyond.
 
-You can use the [editor on GitHub](https://github.com/mechanism-design/working-group/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our iterative, peer-to-peer co-learning format cycles through 6 week units*, structuring qualitative and quantitative exploration answering "what/who, why, how, when/where" about mechanism design topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We decided to focus on Work Token Models for the duration of Unit 01:
+http://bit.ly/mechanism-design_unit01
 
-### Markdown
+## We're covering 2 units in Fall 2018 -->
+### • Unit 01, Cryptoeconomics: September & October (9/18, 9/25, 10/2, 10/9, 10/16, 10/23, 10/30)
+### • Unit 02, Radical Markets: November & December (11/6, 11/13, 11/27, 12/3, 12/10, 12/17)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• Follow along with reading materials on -->
+- Are.na: http://bit.ly/mechanism-design_arena
+- Google Drive: http://bit.ly/mechanism-design_drive
 
-```markdown
-Syntax highlighted code block
+• Up-to-date info & materials on Telegram: http://t.me/mechanismdesigners
 
-# Header 1
-## Header 2
-### Header 3
+^^ including the remote meeting link for that week via Google Hangouts
 
-- Bulleted
-- List
+The Mechanism Design Working Group meets weekly on Tuesdays (6:30 – 8:30 pm) in the Starfish Network Workshop Room (1535 Mission St., San Francisco).
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mechanism-design/working-group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
