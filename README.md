@@ -1,3 +1,6 @@
+• bit.ly/mechanism-design_arena (Are.na)
+• bit.ly/mechanism-design_drive (Drive)
+
 ## The Mechanism Design Working Group is for collaborative learning about strategic design, game theory and dynamic systems in blockchain, decentralized networks and beyond.
 
 Our iterative, peer-to-peer co-learning format cycles through 6 week units*, structuring qualitative and quantitative exploration answering "what/who, why, how, when/where" about mechanism design topics.
